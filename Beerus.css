@@ -1,0 +1,14 @@
+body{
+    background-color: #eeeeee;
+    padding: 30px;
+    font-family: "roboto", sans-serif;
+}
+
+img{
+    height: 200px;
+
+}
+img span{
+    display: flex;
+    vertical-align: middle;
+}
